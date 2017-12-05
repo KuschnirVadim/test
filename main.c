@@ -1,5 +1,5 @@
 int main
 {
-	printf("hui vam");
-	return 0;
+	printf("hui vam vsem");
+	return 1;
 }
